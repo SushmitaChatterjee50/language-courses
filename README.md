@@ -1,2 +1,9 @@
-# language-courses
-The repository is where Juan organizes the source files for the development project
+# SFDX App
+
+## Dev, Build and Test
+
+## Resources
+
+## Description of Files and Directories
+
+## Issues
